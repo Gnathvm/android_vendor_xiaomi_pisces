@@ -82,7 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
     vendor/xiaomi/pisces/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
-    vendor/xiaomi/pisces/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
