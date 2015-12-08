@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/bin/atmel_fw_update.sh:system/bin/atmel_fw_update.sh \
     vendor/xiaomi/pisces/proprietary/bin/cluster_get.sh:system/bin/cluster_get.sh \
     vendor/xiaomi/pisces/proprietary/bin/cluster_set.sh:system/bin/cluster_set.sh \
+    vendor/xiaomi/pisces/proprietary/bin/fild:system/bin/fild \
     vendor/xiaomi/pisces/proprietary/bin/glgps_nvidiaTegra2android:system/bin/glgps_nvidiaTegra2android \
     vendor/xiaomi/pisces/proprietary/bin/gpslogd:system/bin/gpslogd \
     vendor/xiaomi/pisces/proprietary/bin/i2cdetect:system/bin/i2cdetect \
