@@ -1,0 +1,9 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE_OWNER := Xiaomi
+LOCAL_MODULE := fild
+LOCAL_SRC_FILES := $(LOCAL_MODULE)-patched
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
