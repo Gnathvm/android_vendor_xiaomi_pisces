@@ -67,7 +67,6 @@ lib/hw/audio_policy.tegra.so
 lib/hw/camera.tegra.so
 lib/hw/gps.tegra.so
 lib/hw/gralloc.tegra.so
-lib/hw/hwcomposer.tegra.so
 lib/hw/nfc_nci_nfca.default.so
 lib/hw/nfc.tegra.so
 lib/hw/sensors.pisces.so
@@ -83,7 +82,6 @@ lib/libnvcamerahdr.so
 lib/libnvcam_imageencoder.so
 lib/libnvcapaudioservice.so
 lib/libnvcapclk.so
-lib/libnvcap_video.so
 lib/libnvcms.so
 lib/libnvcontrol_jni.so
 lib/libnvcpl.so
@@ -110,7 +108,6 @@ lib/libnvmm_writer.so
 lib/libnvodm_imager.so
 lib/libnvodm_query.so
 lib/libnvoice.so
-lib/libnvomxadaptor.so
 lib/libnvomx.so
 lib/libnvos.so
 lib/libnvparser.so

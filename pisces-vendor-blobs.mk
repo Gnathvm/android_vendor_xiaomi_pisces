@@ -84,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
-    vendor/xiaomi/pisces/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/nfc_nci_nfca.default.so:system/lib/hw/nfc_nci_nfca.default.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/nfc.tegra.so:system/lib/hw/nfc.tegra.so \
     vendor/xiaomi/pisces/proprietary/lib/hw/sensors.pisces.so:system/lib/hw/sensors.pisces.so \
@@ -100,7 +99,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/lib/libnvcam_imageencoder.so:system/lib/libnvcam_imageencoder.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvcapaudioservice.so:system/lib/libnvcapaudioservice.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvcapclk.so:system/lib/libnvcapclk.so \
-    vendor/xiaomi/pisces/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvcms.so:system/lib/libnvcms.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvcpl.so:system/lib/libnvcpl.so \
@@ -127,7 +125,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/lib/libnvodm_imager.so:system/lib/libnvodm_imager.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvodm_query.so:system/lib/libnvodm_query.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvoice.so:system/lib/libnvoice.so \
-    vendor/xiaomi/pisces/proprietary/lib/libnvomxadaptor.so:system/lib/libnvomxadaptor.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvomx.so:system/lib/libnvomx.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvos.so:system/lib/libnvos.so \
     vendor/xiaomi/pisces/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
