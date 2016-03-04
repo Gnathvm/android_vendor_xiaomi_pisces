@@ -28,7 +28,7 @@
     <bool name="config_enableNetworkLocationOverlay" translatable="false">false</bool>
     <!-- Package name providing network location support. Used only when
          config_enableNetworkLocationOverlay is false. -->
-    <string name="config_networkLocationProviderPackageName" translatable="false">com.amap.android.location</string>
+    <string name="config_networkLocationProviderPackageName" translatable="false">org.microg.nlp</string>
 
     <!-- Whether to enable geocoder overlay which allows geocoder to be replaced
          by an app at run-time. When disabled, only the
@@ -41,5 +41,5 @@
     <bool name="config_enableGeocoderOverlay" translatable="false">false</bool>
     <!-- Package name providing geocoder API support. Used only when
          config_enableGeocoderOverlay is false. -->
-    <string name="config_geocoderProviderPackageName" translatable="false">com.amap.android.location</string>
+    <string name="config_geocoderProviderPackageName" translatable="false">org.microg.nlp</string>
 </resources>
