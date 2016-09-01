@@ -136,16 +136,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pisces/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/xiaomi/pisces/proprietary/lib/libtelephonynativeclient.so:system/lib/libtelephonynativeclient.so \
     vendor/xiaomi/pisces/proprietary/lib/libtsec_wrapper.so:system/lib/libtsec_wrapper.so \
-    vendor/xiaomi/pisces/proprietary/lib/modules/baseband_usb_chr.ko:system/lib/modules/baseband_usb_chr.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/gps_drv.ko:system/lib/modules/gps_drv.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/mbt8797.ko:system/lib/modules/mbt8797.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/raw_ip_net.ko:system/lib/modules/raw_ip_net.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/sd8797.ko:system/lib/modules/sd8797.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/sd8797mlan.ko:system/lib/modules/sd8797mlan.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/tcrypt.ko:system/lib/modules/tcrypt.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/wl12xx.ko:system/lib/modules/wl12xx.ko \
-    vendor/xiaomi/pisces/proprietary/lib/modules/wl12xx_sdio.ko:system/lib/modules/wl12xx_sdio.ko \
     vendor/xiaomi/pisces/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/pisces/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
     vendor/xiaomi/pisces/proprietary/vendor/firmware/BCM43341NFCB0_002.001.009.0031.0067_Generic_I2C_NCD_Signed_configdata.ncd:system/vendor/firmware/BCM43341NFCB0_002.001.009.0031.0067_Generic_I2C_NCD_Signed_configdata.ncd \
