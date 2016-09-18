@@ -68,6 +68,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_ADDITIONAL_DEPENDENCIES := NvwfdProtocolsPack
 include $(BUILD_PREBUILT)
 
+ifeq ($(wildcard packages/apps/SmartCardService/Android.mk),)
 include $(CLEAR_VARS)
 LOCAL_MODULE_OWNER := Xiaomi
 LOCAL_MODULE := SmartcardService
@@ -78,6 +79,7 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_PATH := $(TARGET_OUT)/priv-app
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
+endif
 
 include $(CLEAR_VARS)
 LOCAL_MODULE_OWNER := Qapp
